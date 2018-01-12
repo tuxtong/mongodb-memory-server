@@ -52,7 +52,7 @@
     "decompress": "^4.2.0",
     "fs-extra": "^4.0.2",
     "get-port": "^3.2.0",
-    "getos": "^3.1.0",
+    "getos": "tuxtong/getos",
     "lockfile": "^1.0.3",
     "md5-file": "^3.2.3",
     "mkdirp": "^0.5.1",

@@ -2170,9 +2170,9 @@ get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
 
-getos@^3.1.0:
+getos@tuxtong/getos:
   version "3.1.0"
-  resolved "https://registry.yarnpkg.com/getos/-/getos-3.1.0.tgz#db3aa4df15a3295557ce5e81aa9e3e5cdfaa6567"
+  resolved "https://codeload.github.com/tuxtong/getos/tar.gz/6a20547c438a0edec1aafa560ca662c62976db95"
   dependencies:
     async "2.4.0"
 
